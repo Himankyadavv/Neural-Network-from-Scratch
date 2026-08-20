@@ -88,4 +88,4 @@ Computer Science Engineering Student — exploring Deep Learning, Machine Learni
 
 ## License
 
-This project is for educational purposes.
+This project is for educational purposes. Thank You

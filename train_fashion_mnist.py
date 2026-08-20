@@ -85,3 +85,4 @@ model.set(
 model.finalize()
 
 model.train(X, y, validation_data=(X_test, y_test), epochs=100, print_every=10)
+print("Training Completed :)")
